@@ -1,0 +1,16 @@
+TinyLoadr Blink Example Sketch by Jeff Murchison (jeff@jeffmurchison.com)
+
+
+To install, copy the TinyLoadr_Shield folder to your Arduino’s libraries folder.
+
+This is located in the Arduino sketchbook. If you don’t know where this is, check your settings / preferences in the Arduino application.
+
+For example, in OS X, the default location is:
+
+~/Documents/Arduino/
+
+So you would copy the TinyLoadr_Shield folder to:
+
+~/Documents/Arduino/libraries/
+
+After copying it, restart the Arduino application and you should now see a TinyLoadr_Shield option under File > Examples.
